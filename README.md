@@ -45,18 +45,19 @@ Full-stack sales analytics dashboard built with Next.js, FastAPI, PostgreSQL, sh
 **Links:**
 - GitHub: https://github.com/maliqabbas123/SalesVision
 
-### [Personal Portfolio](https://github.com/maliqabbas123/Personal-Portfolio)
+### [ShopGraphAI](https://github.com/maliqabbas123/ShopGraphAI)
 
-Modern personal portfolio website built with Next.js, TypeScript, Tailwind CSS, and reusable component sections.
+Stateful AI shopping assistant built with LangGraph, FastAPI, React, TypeScript, MongoDB, and Google Gemini.
 
 **Highlights:**
-- Dark premium developer portfolio design
-- Project and case-study sections
-- Skills, work timeline, philosophy, and contact sections
-- Editable content stored in structured data arrays
+- Multi-turn conversational product search, comparison, and ordering
+- LangGraph-based agent with intent classification and deterministic routing
+- Dedicated search, comparison, and order subgraphs
+- Persistent conversation state for contextual follow-up actions
+- Full-stack FastAPI + React architecture
 
 **Links:**
-- GitHub: https://github.com/maliqabbas123/Personal-Portfolio
+- GitHub: https://github.com/maliqabbas123/ShopGraphAI
 
 Most of my professional engineering work is inside private organization repositories, so I use public projects and case studies here to showcase my skills.
 
